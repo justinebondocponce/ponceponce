@@ -24,12 +24,8 @@
                                 {{ __('You are logged in!') }}
                             </p>
                             <button>submit</button>
-                            <button>submit</button>
-                            <button>submit</button>
-                            <button>submit</button>
-                            <button>submit</button>
-                            <button>submit</button>
-                            
+                           
+
                         </div>
                     </div>
                 </div>
