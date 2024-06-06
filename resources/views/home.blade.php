@@ -21,6 +21,8 @@
             <div class="small-box bg-info">
               <div class="inner]">
                 <h3>BSIT-3B EXAMINERS</h3>
+                <h3>BSIT-3B EXAMINERS</h3>
+                <h3>BSIT-3B EXAMINERS</h3>
 
                 <p></p>
               </div>
