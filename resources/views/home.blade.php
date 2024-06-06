@@ -6,7 +6,7 @@
         <div class="container-fluid">
             <div class="row mb-2">
                 <div class="col-sm-6">
-                    <h1 class="m-0">{{ __('bryangerzy') }}</h1>
+                    <h3 class="m-2">{{ __('COMPANY') }}</h3>
                 </div><!-- /.col -->
             </div><!-- /.row -->
         </div><!-- /.container-fluid -->
@@ -14,24 +14,22 @@
     <!-- /.content-header -->
 
     <!-- Main content -->
-    <div class="content">
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="card">
-                        <div class="card-body">
-                            <p class="card-text">
-                                {{ __('You are logged in!') }}
-                            </p>
-                            <button>submit</button>
-                           
+    
+    <section class="row">
+          <div class="col-lg-3 col-10">
+            <!-- small box -->
+            <div class="small-box bg-info">
+              <div class="inner]">
+                <h3>BSIT-3B EXAMINERS</h3>
 
-                        </div>
-                    </div>
-                </div>
+                <p></p>
+              </div>
+              <div class="icon">
+                <i class="ion ion-bag"></i>
+              </div>
+              <a href="#" class="small-box-footer"><a href="users">More info</a><i class="fas fa-arrow-circle-right"></i></a>
+              <button>submit</button>
             </div>
-            <!-- /.row -->
-        </div><!-- /.container-fluid -->
-    </div>
+</section>
     <!-- /.content -->
 @endsection
