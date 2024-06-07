@@ -24,7 +24,7 @@
 <<<<<<< HEAD
 =======
                 <h3>BSIT-3B EXAMINERS</h3>
-                <h3>BSIT-3B EXAMINERS</h3>
+                <h3></h3>
 >>>>>>> a4927f30bb62e5803a1e158d2d9175d7d7b0317c
 
                 <p></p>
